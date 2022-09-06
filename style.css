@@ -1,1 +1,23 @@
-<style> Helvetica </style>
+body {
+    background-color: burlywood;
+    background-image: url(https://wallpapercave.com/wp/wp6635480.jpg)
+}
+div {
+    width: 300px
+}
+h1 {
+    font-family: Georgia
+}
+h2 {
+    font-family: Georgia
+}
+.node {
+    width: 50%
+}
+/* comment test CSS*/
+body { 
+    color: whitesmoke
+}
+a.href index.html {
+    color: hotpink
+}
